@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zWpEbOmBT0GY_EbY6fsJnQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://crm.biologisticsolutions.com/PatientOrder/Lookup" CVScreenId="cd43c926-78ef-445c-8b98-db06a862e279" CvTextArea="231, 690, 63, 16" CvTextArgument="[record_number]" CvType="Text" DesignTimeRectangle="233, 688, 118, 23" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}' tag='DIV' /&gt;&quot;, record_number)]" FuzzySelectorArgument="&lt;webctrl aaname='{{record_number}}' tag='DIV' type='' class='' check:innerText={{record_number}}' /&gt;" Guid="5bcb649d-171a-4de5-b620-82323b1cf8bb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Patient Order Lookup Listing - Biologistic Solutions' /&gt;" SearchSteps="Selector, CV" Version="V4" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="cd43c926-78ef-445c-8b98-db06a862e279" CvTextArea="231, 618, 80, 16" CvTextArgument="RecordNo" CvType="Text" DesignTimeRectangle="233, 617, 78, 19" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='columntablejqxgrid' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='columntablejqxgrid' tag='SPAN' type='' class='' aaname='RecordNo' check:innerText='RecordNo' /&gt;" Guid="d918f046-3a1a-470f-9d0d-2f8159eda0f9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6da3c62712d73813ddf0b8688d9b6c0d.png" xmlns="">0SYUyZC8qMEOHu5WTL9kMgQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="record_number" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

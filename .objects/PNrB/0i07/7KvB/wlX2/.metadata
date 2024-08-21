@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click '915435'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wlX2B2e5J0KPjqfTqcb2iA",
+  "Reference": "xdOaZBlEE02lPeRfAKPWgg/wlX2B2e5J0KPjqfTqcb2iA",
+  "ParentRef": "xdOaZBlEE02lPeRfAKPWgg/7KvB_63y7EqqkhPxKCBkog",
+  "Created": "2024-08-21T09:57:06.8679691Z",
+  "Updated": "2024-08-21T09:57:06.8679691Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
