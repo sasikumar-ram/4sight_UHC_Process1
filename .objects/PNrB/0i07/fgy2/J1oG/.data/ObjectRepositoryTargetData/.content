@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OgxH7m2J7UKRHd7H5XfVUA" Reference="xdOaZBlEE02lPeRfAKPWgg/J1oGqO9SSUyHLSQMV-uV4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://crm.biologisticsolutions.com/PatientOrder/Print/da4b6c89-8700-4109-885b-dc645e5e13e8" CVScreenId="bc72e4d1-6893-411f-9461-6ba5e3904d48" CvElementArea="1786, 203, 26, 28" CvType="Icon" DesignTimeRectangle="1784, 201, 30, 32" DesignTimeScaleFactor="1.25" ElementType="Icon" Guid="5281e3c7-532a-4ab4-8c04-0a2e5d925169" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAgCAYAAAAFQMh/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADRSURBVFhH7dXRCcIwEMZxZ/JB6AqC4AxCcQcRhxAdQuwS6hR1i0wQ+QoHob1wd6mmKnn4vYRwf9qEdjZfVH4KJZxNCWfzO+Hj6ezb9jmAdW5/jDl8uTbeOTeAdW5/TAmL/j+8qbfdUIIbzIWxHu7b7Q/sPKJ6YgziYjG3+4OdE1K/am1cEwXTGUtxbRTedrksUTCHoR+3RiEpDBRPiUJyGKw/htCo8BhieLladx+RFNw8IoZxhuFF0pLOXhUOf/hauHzcPPK9Z/wpJZzNROHKvwBLRic0RKErywAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='crm.biologisticsolutions.com/PatientOrder/Print/*' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="bc72e4d1-6893-411f-9461-6ba5e3904d48" CvElementArea="1829, 203, 30, 29" CvType="Icon" DesignTimeRectangle="1827, 201, 34, 33" ElementType="Icon" Guid="0b0dc386-5e4e-4820-ba8f-b2c63a31fef3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAhCAYAAAC803lsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADzSURBVFhH7ZXRCcIwEIadyQehKwiCMwjiDiIOITqE6BLqFHWLTBD5HwLH8XPN1UZbyMP3UHL5+XK9prP5ooljoIpoqoimimimKXK93WPbvrNBPcthuEQez1cMIWSDepbDqCIal8hmu3OxXK1pDqNTBGEYum84nS+dUqYINrOW98WSMUVwGhboARlptqyZMUVwF+hgD9iPHMyLfGYUFQGyI38VkQwughOmL4KROqAZXGR/ONL6BNbZvumLoMWSJOYRkfvx2lg9MEU0CPOIoJ6tM3qJ4MrW/xUJTv4TkVyKimBOcrFmQuMSKUkV0VQRzUhEmvgBZKFAomQhCx0AAAAASUVORK5CYII=" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6d2a2c783bbc293bb3499a7ff49d7222.png" xmlns="">0H0Cpt-69lEW32lUQDCZoHQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

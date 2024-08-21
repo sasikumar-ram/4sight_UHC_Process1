@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'grouping'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "GGWPNdF-lU-ywjEPcdmSNA",
+  "Reference": "xdOaZBlEE02lPeRfAKPWgg/GGWPNdF-lU-ywjEPcdmSNA",
+  "ParentRef": "xdOaZBlEE02lPeRfAKPWgg/MNsRr08MfUKtO-RbNkHyIg",
+  "Created": "2024-08-19T18:33:30.5935541Z",
+  "Updated": "2024-08-19T18:33:30.5935541Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

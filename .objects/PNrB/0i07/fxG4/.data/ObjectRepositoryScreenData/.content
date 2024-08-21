@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="CMaMl2LLlki_iqMCXG6p3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" Url="https://crm.biologisticsolutions.com/PatientOrder/Print/da4b6c89-8700-4109-885b-dc645e5e13e8" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

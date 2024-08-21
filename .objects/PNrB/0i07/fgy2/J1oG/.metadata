@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Icon'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "J1oGqO9SSUyHLSQMV-uV4w",
+  "Reference": "xdOaZBlEE02lPeRfAKPWgg/J1oGqO9SSUyHLSQMV-uV4w",
+  "ParentRef": "xdOaZBlEE02lPeRfAKPWgg/fgy2mghIkEqQyQHhcdTErw",
+  "Created": "2024-08-20T00:59:32.8782798Z",
+  "Updated": "2024-08-20T00:59:32.8782798Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

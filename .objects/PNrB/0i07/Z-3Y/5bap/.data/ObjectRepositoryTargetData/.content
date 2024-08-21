@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kXCDS3__NkS8ku6VnFIgIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://crm.biologisticsolutions.com/" CVScreenId="5e152d15-dee1-490f-9863-9f18cd75b3a2" CvTextArea="808, 340, 86, 22" CvTextArgument="Action" CvType="Text" DesignTimeRectangle="774, 316, 157, 70" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Action' parentid='navbarTop' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Action' parentid='navbarTop' tag='A' type='' class='' check:innerText='Action' /&gt;" Guid="a1d756bd-a650-432b-968c-2367cc000877" ScopeSelectorArgument="&lt;html app='chrome.exe' title='- Biologistic Solutions' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ed8c1a43fd229e8419417f7aa23adccd.png" xmlns="">0QXEWOBbXIkGr1fEFzv6PAw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

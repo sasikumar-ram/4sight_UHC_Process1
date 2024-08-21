@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: - Biologistic Solutions",
+  "Type": "App",
+  "Id": "PNrBrKnRf0qTzGSGoeOTKw",
+  "Reference": "xdOaZBlEE02lPeRfAKPWgg/PNrBrKnRf0qTzGSGoeOTKw",
+  "Created": "2024-08-12T16:25:20.9829874Z",
+  "Updated": "2024-08-12T16:25:20.9829874Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

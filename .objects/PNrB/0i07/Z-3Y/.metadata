@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome: - Biologistic Solutions",
+  "Type": "Screen",
+  "Id": "Z-3YnIvQ9kKy1KCZNU9IiQ",
+  "Reference": "xdOaZBlEE02lPeRfAKPWgg/Z-3YnIvQ9kKy1KCZNU9IiQ",
+  "ParentRef": "xdOaZBlEE02lPeRfAKPWgg/0i07uEymh0qykAnma9RHSQ",
+  "Created": "2024-08-12T16:25:21.0261587Z",
+  "Updated": "2024-08-12T16:25:21.0261587Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
